@@ -1,3 +1,8 @@
+/*
+ * Име: [Лазар Илиев]
+ * Факултетен номер: [128425113]
+ * Тема: Maze Generator and Solver: Generating and solving complex mazes
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -126,4 +131,5 @@ int main() {
 
     freeMaze(&myMaze);
     return 0;
+
 }
